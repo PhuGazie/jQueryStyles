@@ -1,0 +1,28 @@
+.changing-divs {
+    border:#000 1px solid;
+    width:100%;
+    height:300px;
+}
+
+.margin-top-20 {
+    margin-top:20px;
+}
+
+.big-box {
+  width: 375px !important;
+  height: 375px !important;
+  transition:all 1s ease-in-out;
+}
+
+.small-box {
+  width: 100px !important;
+  height: 100px !important;
+  transition:all 1s ease-in-out;
+}
+
+.animate-text {
+  text-align: center;
+  font-size: 25px;
+  color: #2e6da4;
+  margin-top: 50px;
+}
